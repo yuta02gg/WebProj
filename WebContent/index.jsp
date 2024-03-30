@@ -2,11 +2,19 @@
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
   <head>
     <meta charset="utf-8">
     <title>INDEX</title>
   </head>
   <body>
+=======
+<head>
+    <meta charset="utf-8">
+    <title>INDEX</title>
+</head>
+<body>
+>>>>>>> 38d142dbcc4a0424f0faf006a413c4b7c8a5180d
     <s:form action="HelloStrutsAction">
         <s:submit value="HelloStruts"/>
     </s:form>
@@ -15,6 +23,7 @@
         <s:submit value="Welcome"/>
     </s:form>
 
+<<<<<<< HEAD
     <s:form action="InquiryAction">
         <s:submit value="問い合わせ"/>
     </s:form>
@@ -35,3 +44,7 @@
 
   </body>
 </html>
+=======
+</body>
+</html>
+>>>>>>> 38d142dbcc4a0424f0faf006a413c4b7c8a5180d
