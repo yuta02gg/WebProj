@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
-         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/webapp_3_1.xsd"
-         id="WebApp_ID" version="3.1">
-    <display-name>WebProj</display-name>
-=======
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/webapp_3_1.xsd" id="WebApp_ID" version="3.1">
     <display-name>webproj</display-name>
->>>>>>> 38d142dbcc4a0424f0faf006a413c4b7c8a5180d
     <welcome-file-list>
         <welcome-file>index.jsp</welcome-file>
     </welcome-file-list>
@@ -21,7 +13,3 @@
         <url-pattern>/*</url-pattern>
     </filter-mapping>
 </web-app>
-<<<<<<< HEAD
-
-=======
->>>>>>> 38d142dbcc4a0424f0faf006a413c4b7c8a5180d

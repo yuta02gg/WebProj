@@ -7,7 +7,3 @@ public class WelcomeAction extends ActionSupport {
         return SUCCESS;
     }
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 38d142dbcc4a0424f0faf006a413c4b7c8a5180d
